@@ -1,0 +1,6 @@
+Receipt
+-----------------
+french fries3.0
+hamburger6.0
+Total price: 9.0
+2020-19-12

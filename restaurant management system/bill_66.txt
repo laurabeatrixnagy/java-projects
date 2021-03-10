@@ -1,0 +1,6 @@
+Receipt
+-----------------
+egg2.0
+sandwich5.0
+Total price: 7.0
+2020-48-12
