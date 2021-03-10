@@ -1,1 +1,2 @@
+# Activity monitoring application
 An application for analyzing the behaviour of a person recorded by a set of sensors installed in his house. The historical log of the person’s activity is stored as tuples (start_time, end_time, activity_label), where start_time and end_time represent the date and time when each activity has started and ended while the activity label represents the type of activity performed by the person.
