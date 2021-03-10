@@ -1,0 +1,3 @@
+Activities that have more than 90% of the records with duration < 5 minutes:
+
+Snack

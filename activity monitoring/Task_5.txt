@@ -1,0 +1,9 @@
+Breakfast:       2 Hours:58 Minutes:8 Seconds
+Grooming:       2 Hours:40 Minutes:42 Seconds
+Toileting:       2 Hours:20 Minutes:34 Seconds
+Sleeping:       131 Hours:3 Minutes:31 Seconds
+Leaving:       27 Hours:44 Minutes:44 Seconds
+Spare_Time/TV:       142 Hours:28 Minutes:55 Seconds
+Snack:       0 Hours:6 Minutes:1 Seconds
+Showering:       1 Hours:34 Minutes:9 Seconds
+Lunch:       5 Hours:13 Minutes:31 Seconds

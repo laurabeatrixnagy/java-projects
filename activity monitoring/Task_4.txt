@@ -1,0 +1,140 @@
+Day of the month: 1 
+Activity = Breakfast, Frequency = 1
+Activity = Toileting, Frequency = 2
+Activity = Grooming, Frequency = 3
+Activity = Sleeping, Frequency = 1
+Activity = Leaving, Frequency = 1
+Activity = Spare_Time/TV, Frequency = 6
+Activity = Showering, Frequency = 1
+Activity = Lunch, Frequency = 1
+
+Day of the month: 2 
+Activity = Breakfast, Frequency = 1
+Activity = Toileting, Frequency = 3
+Activity = Grooming, Frequency = 4
+Activity = Sleeping, Frequency = 1
+Activity = Spare_Time/TV, Frequency = 7
+Activity = Snack, Frequency = 1
+Activity = Showering, Frequency = 1
+Activity = Lunch, Frequency = 1
+
+Day of the month: 3 
+Activity = Breakfast, Frequency = 1
+Activity = Grooming, Frequency = 3
+Activity = Toileting, Frequency = 2
+Activity = Sleeping, Frequency = 1
+Activity = Leaving, Frequency = 1
+Activity = Spare_Time/TV, Frequency = 4
+Activity = Showering, Frequency = 1
+
+Day of the month: 4 
+Activity = Breakfast, Frequency = 1
+Activity = Grooming, Frequency = 2
+Activity = Toileting, Frequency = 4
+Activity = Sleeping, Frequency = 1
+Activity = Leaving, Frequency = 1
+Activity = Spare_Time/TV, Frequency = 6
+Activity = Snack, Frequency = 2
+Activity = Showering, Frequency = 1
+
+Day of the month: 5 
+Activity = Breakfast, Frequency = 1
+Activity = Toileting, Frequency = 5
+Activity = Grooming, Frequency = 6
+Activity = Sleeping, Frequency = 1
+Activity = Leaving, Frequency = 2
+Activity = Spare_Time/TV, Frequency = 7
+Activity = Snack, Frequency = 1
+Activity = Showering, Frequency = 1
+Activity = Lunch, Frequency = 1
+
+Day of the month: 6 
+Activity = Breakfast, Frequency = 1
+Activity = Grooming, Frequency = 4
+Activity = Toileting, Frequency = 3
+Activity = Sleeping, Frequency = 1
+Activity = Spare_Time/TV, Frequency = 5
+Activity = Snack, Frequency = 1
+Activity = Showering, Frequency = 1
+Activity = Lunch, Frequency = 1
+
+Day of the month: 7 
+Activity = Breakfast, Frequency = 1
+Activity = Toileting, Frequency = 6
+Activity = Grooming, Frequency = 5
+Activity = Sleeping, Frequency = 1
+Activity = Leaving, Frequency = 1
+Activity = Spare_Time/TV, Frequency = 8
+Activity = Snack, Frequency = 2
+Activity = Showering, Frequency = 1
+Activity = Lunch, Frequency = 1
+
+Day of the month: 8 
+Activity = Breakfast, Frequency = 1
+Activity = Toileting, Frequency = 1
+Activity = Grooming, Frequency = 5
+Activity = Sleeping, Frequency = 1
+Activity = Leaving, Frequency = 1
+Activity = Spare_Time/TV, Frequency = 4
+Activity = Showering, Frequency = 1
+
+Day of the month: 9 
+Activity = Breakfast, Frequency = 1
+Activity = Toileting, Frequency = 2
+Activity = Grooming, Frequency = 5
+Activity = Sleeping, Frequency = 1
+Activity = Leaving, Frequency = 2
+Activity = Spare_Time/TV, Frequency = 6
+Activity = Showering, Frequency = 1
+
+Day of the month: 10 
+Activity = Breakfast, Frequency = 1
+Activity = Toileting, Frequency = 1
+Activity = Grooming, Frequency = 4
+Activity = Sleeping, Frequency = 1
+Activity = Leaving, Frequency = 2
+Activity = Spare_Time/TV, Frequency = 3
+Activity = Showering, Frequency = 1
+
+Day of the month: 11 
+Activity = Breakfast, Frequency = 1
+Activity = Toileting, Frequency = 2
+Activity = Grooming, Frequency = 3
+Activity = Sleeping, Frequency = 1
+Activity = Spare_Time/TV, Frequency = 3
+Activity = Showering, Frequency = 1
+Activity = Lunch, Frequency = 1
+
+Day of the month: 28 
+Activity = Breakfast, Frequency = 1
+Activity = Grooming, Frequency = 2
+Activity = Toileting, Frequency = 3
+Activity = Sleeping, Frequency = 1
+Activity = Leaving, Frequency = 1
+Activity = Spare_Time/TV, Frequency = 4
+Activity = Snack, Frequency = 1
+Activity = Showering, Frequency = 1
+Activity = Lunch, Frequency = 1
+
+Day of the month: 29 
+Activity = Breakfast, Frequency = 1
+Activity = Grooming, Frequency = 3
+Activity = Toileting, Frequency = 4
+Activity = Sleeping, Frequency = 1
+Activity = Leaving, Frequency = 1
+Activity = Spare_Time/TV, Frequency = 6
+Activity = Snack, Frequency = 1
+Activity = Showering, Frequency = 1
+Activity = Lunch, Frequency = 1
+
+Day of the month: 30 
+Activity = Breakfast, Frequency = 1
+Activity = Grooming, Frequency = 2
+Activity = Toileting, Frequency = 6
+Activity = Sleeping, Frequency = 1
+Activity = Leaving, Frequency = 1
+Activity = Spare_Time/TV, Frequency = 8
+Activity = Snack, Frequency = 2
+Activity = Showering, Frequency = 1
+Activity = Lunch, Frequency = 1
+
