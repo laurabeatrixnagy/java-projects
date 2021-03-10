@@ -1,0 +1,343 @@
+
+Time: 0 s
+Waiting clients: 
+(1, 6, 3) 
+(2, 13, 3) 
+(3, 23, 3) 
+(4, 28, 2) 
+Queue 1:
+Queue 2:
+
+Time: 1 s
+Waiting clients: 
+(1, 6, 3) 
+(2, 13, 3) 
+(3, 23, 3) 
+(4, 28, 2) 
+Queue 1:
+Queue 2:
+
+Time: 2 s
+Waiting clients: 
+(1, 6, 3) 
+(2, 13, 3) 
+(3, 23, 3) 
+(4, 28, 2) 
+Queue 1:
+Queue 2:
+
+Time: 3 s
+Waiting clients: 
+(1, 6, 3) 
+(2, 13, 3) 
+(3, 23, 3) 
+(4, 28, 2) 
+Queue 1:
+Queue 2:
+
+Time: 4 s
+Waiting clients: 
+(1, 6, 3) 
+(2, 13, 3) 
+(3, 23, 3) 
+(4, 28, 2) 
+Queue 1:
+Queue 2:
+
+Time: 5 s
+Waiting clients: 
+(1, 6, 3) 
+(2, 13, 3) 
+(3, 23, 3) 
+(4, 28, 2) 
+Queue 1:
+Queue 2:
+
+Time: 6 s
+Waiting clients: 
+(1, 6, 3) 
+(2, 13, 3) 
+(3, 23, 3) 
+(4, 28, 2) 
+Queue 1:
+Queue 2:
+Starting Queue 2
+Queue 2: (1, 6, 3)
+
+Time: 7 s
+Waiting clients: 
+Client 1started on queue 2, process time = 3 s
+(1, 6, 3) 
+(2, 13, 3) 
+(3, 23, 3) 
+(4, 28, 2) 
+Queue 1:
+Queue 2:
+
+Time: 8 s
+Waiting clients: 
+(1, 6, 3) 
+(2, 13, 3) 
+(3, 23, 3) 
+(4, 28, 2) 
+Queue 1:
+Queue 2:
+
+Time: 9 s
+Waiting clients: 
+(1, 6, 3) 
+Client 1 served in queue 2
+Shutting down queue 2
+(2, 13, 3) 
+(3, 23, 3) 
+(4, 28, 2) 
+Queue 1:
+Queue 2:
+
+Time: 10 s
+Waiting clients: 
+(2, 13, 3) 
+(3, 23, 3) 
+(4, 28, 2) 
+Queue 1:
+Queue 2:
+
+Time: 11 s
+Waiting clients: 
+(2, 13, 3) 
+(3, 23, 3) 
+(4, 28, 2) 
+Queue 1:
+Queue 2:
+
+Time: 12 s
+Waiting clients: 
+(2, 13, 3) 
+(3, 23, 3) 
+(4, 28, 2) 
+Queue 1:
+Queue 2:
+
+Time: 13 s
+Waiting clients: 
+(2, 13, 3) 
+(3, 23, 3) 
+(4, 28, 2) 
+Queue 1:
+Queue 2:
+Starting Queue 2
+Queue 2: (2, 13, 3)
+
+Time: 14 s
+Waiting clients: 
+Client 2started on queue 2, process time = 3 s
+(2, 13, 3) 
+(3, 23, 3) 
+(4, 28, 2) 
+Queue 1:
+Queue 2:
+
+Time: 15 s
+Waiting clients: 
+(2, 13, 3) 
+(3, 23, 3) 
+(4, 28, 2) 
+Queue 1:
+Queue 2:
+
+Time: 16 s
+Waiting clients: 
+Client 2 served in queue 2
+Shutting down queue 2
+(3, 23, 3) 
+(4, 28, 2) 
+Queue 1:
+Queue 2:
+
+Time: 17 s
+Waiting clients: 
+(3, 23, 3) 
+(4, 28, 2) 
+Queue 1:
+Queue 2:
+
+Time: 18 s
+Waiting clients: 
+(3, 23, 3) 
+(4, 28, 2) 
+Queue 1:
+Queue 2:
+
+Time: 19 s
+Waiting clients: 
+(3, 23, 3) 
+(4, 28, 2) 
+Queue 1:
+Queue 2:
+
+Time: 20 s
+Waiting clients: 
+(3, 23, 3) 
+(4, 28, 2) 
+Queue 1:
+Queue 2:
+
+Time: 21 s
+Waiting clients: 
+(3, 23, 3) 
+(4, 28, 2) 
+Queue 1:
+Queue 2:
+
+Time: 22 s
+Waiting clients: 
+(3, 23, 3) 
+(4, 28, 2) 
+Queue 1:
+Queue 2:
+
+Time: 23 s
+Waiting clients: 
+(3, 23, 3) 
+(4, 28, 2) 
+Queue 1:
+Queue 2:
+Starting Queue 2
+Queue 2: (3, 23, 3)
+
+Time: 24 s
+Waiting clients: 
+Client 3started on queue 2, process time = 3 s
+(3, 23, 3) 
+(4, 28, 2) 
+Queue 1:
+Queue 2:
+
+Time: 25 s
+Waiting clients: 
+(3, 23, 3) 
+(4, 28, 2) 
+Queue 1:
+Queue 2:
+
+Time: 26 s
+Waiting clients: 
+Client 3 served in queue 2
+Shutting down queue 2
+(3, 23, 3) 
+(4, 28, 2) 
+Queue 1:
+Queue 2:
+
+Time: 27 s
+Waiting clients: 
+(4, 28, 2) 
+Queue 1:
+Queue 2:
+
+Time: 28 s
+Waiting clients: 
+(4, 28, 2) 
+Queue 1:
+Queue 2:
+Starting Queue 2
+Queue 2: (4, 28, 2)
+
+Time: 29 s
+Waiting clients: 
+Client 4started on queue 2, process time = 2 s
+
+Time: 30 s
+Waiting clients: 
+
+Time: 31 s
+Client 4 served in queue 2
+Waiting clients: 
+Shutting down queue 2
+
+Time: 32 s
+Waiting clients: 
+
+Time: 33 s
+Waiting clients: 
+
+Time: 34 s
+Waiting clients: 
+
+Time: 35 s
+Waiting clients: 
+
+Time: 36 s
+Waiting clients: 
+
+Time: 37 s
+Waiting clients: 
+
+Time: 38 s
+Waiting clients: 
+
+Time: 39 s
+Waiting clients: 
+
+Time: 40 s
+Waiting clients: 
+
+Time: 41 s
+Waiting clients: 
+
+Time: 42 s
+Waiting clients: 
+
+Time: 43 s
+Waiting clients: 
+
+Time: 44 s
+Waiting clients: 
+
+Time: 45 s
+Waiting clients: 
+
+Time: 46 s
+Waiting clients: 
+
+Time: 47 s
+Waiting clients: 
+
+Time: 48 s
+Waiting clients: 
+
+Time: 49 s
+Waiting clients: 
+
+Time: 50 s
+Waiting clients: 
+
+Time: 51 s
+Waiting clients: 
+
+Time: 52 s
+Waiting clients: 
+
+Time: 53 s
+Waiting clients: 
+
+Time: 54 s
+Waiting clients: 
+
+Time: 55 s
+Waiting clients: 
+
+Time: 56 s
+Waiting clients: 
+
+Time: 57 s
+Waiting clients: 
+
+Time: 58 s
+Waiting clients: 
+
+Time: 59 s
+Waiting clients: 
+
+Simulation over
+Average waiting time : 2.75
